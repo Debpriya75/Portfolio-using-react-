@@ -58,7 +58,7 @@ const FormSection = () => {
 
     try {
       await fetch(
-        "https://script.google.com/macros/s/AKfycbwfknmE9_0p5nJh5PGKNAZQJX-E6_NV4bmuq57GEec-pWAX1Btrq-pJdEg2aZrXMNU-/exec",
+        "https://script.google.com/macros/s/AKfycbxwCjRHpiYNinZUhIcFj5e5-2Ial4FCDRoKPrqvovYU0HIlKyA3In2VvqzgXfEfZ7P7OA/exec",
         {
           method: "POST",
           body: formDataObj,

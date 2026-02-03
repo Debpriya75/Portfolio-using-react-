@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Heading from "../Heading/Heading";
 import BtnContainer from "../Container/BtnContainer";
-import Resume from "../../assets/KiranSamanta_Resume.pdf";
+import Resume from "../../assets/DebpriyaGhosh_Resume.pdf";
 import ScrollAnimation from "react-animate-on-scroll";
 import CountUp from "react-countup";
 

@@ -12,6 +12,7 @@ import MySQL from "../../assets/Testimonial/Mysql.png";
 import SpringBoot from "../../assets/Testimonial/springboot.png";
 import JAVA from "../../assets/Testimonial/java.png";
 import GitHub from "../../assets/Testimonial/github.png";
+import SAP from "../../assets/Testimonial/SAP.png";
 import ScrollAnimation from "react-animate-on-scroll";
 
 // Array of objects for the client details of the testimonial section
@@ -73,10 +74,10 @@ const techArr = [
     img: MySQL,
     alt: "MYSQL",
   },
-  //{
-  // img: mongoDB,
-  //alt: "mongoDB",
-  // },
+  {
+    img: SAP,
+    alt: "SAP",
+  },
   {
     img: JAVA,
     alt: "Java",
